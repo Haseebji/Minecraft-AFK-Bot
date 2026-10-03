@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
+  "serverHost": "play.rawsmp.fun",
+  "serverPort": 23461,
+  "botUsername": "ffmaster24",
   "botChunk": 1
 }
